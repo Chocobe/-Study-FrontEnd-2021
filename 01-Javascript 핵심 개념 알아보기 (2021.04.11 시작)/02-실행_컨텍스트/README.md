@@ -53,7 +53,7 @@ Javascript 의 Execution Context는 다음과 같은 형식의 객체로 구성 
                     │           : === 외부 식별자
                     │           : === Scope Chain
                     │
-                    └─ this
+                    └─ thisBindling
                           : "03. this 참고"
 ```
 
