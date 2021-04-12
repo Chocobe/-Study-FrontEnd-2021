@@ -54,7 +54,7 @@ Javascript 의 Execution Context는 다음과 같은 형식의 객체로 구성 
                     │           : === Scope Chain
                     │
                     └─ thisBindling
-                          : "03. this 참고"
+                          : 실행 컨텍스트가 열리는 순간 ``this`` 를 바인딩 합니다.
 ```
 
 
