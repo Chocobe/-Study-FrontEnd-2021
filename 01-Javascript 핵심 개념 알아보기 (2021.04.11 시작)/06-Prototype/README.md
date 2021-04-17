@@ -1,5 +1,9 @@
 # 06 Prototype
 
+[🐫 돌아가기](https://github.com/Chocobe/-Study-FrontEnd-2021/tree/master/01-Javascript%20%ED%95%B5%EC%8B%AC%20%EA%B0%9C%EB%85%90%20%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0%20(2021.04.11%20%EC%8B%9C%EC%9E%91))
+
+<br/>
+
 ## 1. 생성자 함수 ``constructor()``
 
 Javascript 의 ``new`` 키워드를 사용한 객체 생성은 ``constructor()`` 라는 ``생성자`` 메서드가 만들어 반환하는 새로운 객체 입니다.
