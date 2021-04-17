@@ -1,5 +1,9 @@
 # 01. 데이터 타입 (Data Type)
 
+[🐫 돌아가기](https://github.com/Chocobe/-Study-FrontEnd-2021/tree/master/01-Javascript%20%ED%95%B5%EC%8B%AC%20%EA%B0%9C%EB%85%90%20%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0%20(2021.04.11%20%EC%8B%9C%EC%9E%91))
+
+<br/>
+
 Javascript 의 데이터 타입
   * Primitive Type
     * Number
